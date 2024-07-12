@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Arioracle.DESKTOP-7PN0QFU\Desktop\Semana 6\Cliente.cs" Link="Cliente.cs" />
+    <Compile Include="C:\Users\Arioracle.DESKTOP-7PN0QFU\Desktop\Semana 6\livro.cs" Link="livro.cs" />
+  </ItemGroup>
+
+</Project>
